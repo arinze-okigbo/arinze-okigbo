@@ -32,4 +32,5 @@ I’m currently the Co-Founder & CEO of **Splita**, where I’m building a bette
 
 ## Connect with me
 - LinkedIn: [https://www.linkedin.com/in/arinzeokigbo/]
+- Personal Website: [www.arinzeokigbo.com]
 - Splita Website: [www.splita.co]

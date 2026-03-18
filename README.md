@@ -1,5 +1,7 @@
 # Hi, I’m Arinze Okigbo
+![Arinze's GitHub stats](https://github-readme-stats.vercel.app/api?username=arinze-okigbo&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arinze-okigbo&layout=compact)
 Founder, builder, and computer science student working at the intersection of AI, security, software infrastructure, and fintech.
 
 I’m currently the Co-Founder & CEO of **Splita**, where I’m building a better way to coordinate group payments by collecting everyone’s share upfront and paying the vendor in full. I also work on AI systems at **Snorkel AI** and authentication infrastructure at **Queralt Inc.**, with a focus on secure systems, developer tooling, and real-world product execution.
